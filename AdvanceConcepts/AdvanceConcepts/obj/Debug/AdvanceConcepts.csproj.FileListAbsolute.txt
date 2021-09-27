@@ -1,0 +1,7 @@
+C:\Users\giliy\Desktop\Codes\Git and GitHub\AdvanceConcepts-Demo\AdvanceConcepts\AdvanceConcepts\bin\Debug\AdvanceConcepts.exe.config
+C:\Users\giliy\Desktop\Codes\Git and GitHub\AdvanceConcepts-Demo\AdvanceConcepts\AdvanceConcepts\bin\Debug\AdvanceConcepts.exe
+C:\Users\giliy\Desktop\Codes\Git and GitHub\AdvanceConcepts-Demo\AdvanceConcepts\AdvanceConcepts\bin\Debug\AdvanceConcepts.pdb
+C:\Users\giliy\Desktop\Codes\Git and GitHub\AdvanceConcepts-Demo\AdvanceConcepts\AdvanceConcepts\obj\Debug\AdvanceConcepts.csproj.AssemblyReference.cache
+C:\Users\giliy\Desktop\Codes\Git and GitHub\AdvanceConcepts-Demo\AdvanceConcepts\AdvanceConcepts\obj\Debug\AdvanceConcepts.csproj.CoreCompileInputs.cache
+C:\Users\giliy\Desktop\Codes\Git and GitHub\AdvanceConcepts-Demo\AdvanceConcepts\AdvanceConcepts\obj\Debug\AdvanceConcepts.exe
+C:\Users\giliy\Desktop\Codes\Git and GitHub\AdvanceConcepts-Demo\AdvanceConcepts\AdvanceConcepts\obj\Debug\AdvanceConcepts.pdb
