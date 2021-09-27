@@ -16,13 +16,15 @@ namespace AdvanceConcepts
             var students = new[]
             {
                 new { RollNo = 101, Name = "Rachana1", Email = "rachana1@gmail.com" },
-            new { RollNo = 102, Name = "Rachana2", Email = "rachana2@gmail.com" },
-            new { RollNo = 103, Name = "Rachana3", Email = "rachana3@gmail.com" }
+                new { RollNo = 102, Name = "Rachana2", Email = "rachana2@gmail.com" },
+                new { RollNo = 103, Name = "Rachana3", Email = "rachana3@gmail.com" }
 
-        };
-            foreach
-    }
-            
+            };
+            foreach (var std in students)
+            {
+                Console.WriteLine($"RollNo={std.RollNo} Name = {std.Name} Email={std.Email}");
+            }
         }
     }
 }
+  
