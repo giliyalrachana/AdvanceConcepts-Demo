@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>AdvanceConcepts.SerAndDeser</StartupObject>
+    <StartupObject>AdvanceConcepts.TaskDemo6</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -47,8 +47,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ActionDelegate.cs" />
+    <Compile Include="AggregationDemo.cs" />
     <Compile Include="AnonymousMethods.cs" />
     <Compile Include="AnonymousType.cs" />
+    <Compile Include="AssociationDemo.cs" />
+    <Compile Include="CompositionDemo.cs" />
     <Compile Include="Employee.cs" />
     <Compile Include="FuncDelegate.cs" />
     <Compile Include="MultiCastDelegate.cs" />
@@ -56,6 +59,12 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SerAndDeser.cs" />
+    <Compile Include="TaskDemo1.cs" />
+    <Compile Include="TaskDemo2.cs" />
+    <Compile Include="TaskDemo3.cs" />
+    <Compile Include="TaskDemo4.cs" />
+    <Compile Include="Taskdemo5.cs" />
+    <Compile Include="TaskDemo6.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
