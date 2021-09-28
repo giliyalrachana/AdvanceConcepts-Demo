@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>AdvanceConcepts.TaskDemo6</StartupObject>
+    <StartupObject>AdvanceConcepts.TaskDemo4</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -52,6 +52,7 @@
     <Compile Include="AnonymousType.cs" />
     <Compile Include="AssociationDemo.cs" />
     <Compile Include="CompositionDemo.cs" />
+    <Compile Include="CompositionDemo1.cs" />
     <Compile Include="Employee.cs" />
     <Compile Include="FuncDelegate.cs" />
     <Compile Include="MultiCastDelegate.cs" />

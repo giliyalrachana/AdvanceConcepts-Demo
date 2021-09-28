@@ -24,17 +24,17 @@ namespace AdvanceConcepts
             Console.WriteLine($"{tResult1.Result}");
             Console.ReadLine();
         }
-    }
-    public static int PrintSum()
-    {
-        int sum = 0;
-        for (int i = 1; i <= 15; i++)
+        public static int PrintSum()
         {
-            sum = sum + i;
+            int sum = 0;
+            for (int i = 1; i <= 15; i++)
+            {
+                sum = sum + i;
 
+            }
+            Task.Delay(2000).Wait();
+            return sum;
         }
-        Task.Delay(2000).Wait();
-        return sum;
     }
 }
 

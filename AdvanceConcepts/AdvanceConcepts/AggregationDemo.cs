@@ -8,8 +8,8 @@ namespace AdvanceConcepts
         static void Main()
         {
             Address address1 = new Address("23/5", "M.G.Road", "Bangalore");
-            Person Rachana = new Person("Rachana", address1);
-            Console.WriteLine($"{person1.Name} residing at house no: {person1.ResidentialAddress.HouseNo},Area={person1.Residentialaddress.Area},City={person1.City}");
+            Person person1 = new Person("Rachana", address1);
+            Console.WriteLine($"{person1.Name} residing at house no: {person1.ResidentialAddress.HouseNo},Area={person1.ResidentialAddress.Area},City={person1.ResidentialAddress.City}");
             Console.ReadLine();
         }
     }

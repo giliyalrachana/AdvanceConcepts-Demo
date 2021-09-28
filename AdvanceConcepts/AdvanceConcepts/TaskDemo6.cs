@@ -25,19 +25,23 @@ namespace AdvanceConcepts
                 }
 
             });
-            public static async Task TaskMethod2()
+        }
+
+        public static async Task TaskMethod2()
+        {
+            await Task.Run(() =>
             {
-                await Task.Run(() =>
+                for (int i = 11; i < 20; i++)
                 {
-                    for (int i = 0; i < 10; i++)
-                    {
-                        Console.WriteLine($"Method2=value is:{i} {DateTime.Now.Millisecond}");
-                        Task.Delay(3000).Wait();
-                    }
+                    Console.WriteLine($"Method2=value is:{i} {DateTime.Now.Millisecond}");
+                    Task.Delay(4000).Wait();
+                }
 
-                });
-
-
-            }
+            });
+        }
     }
 }
+         
+
+
+
